@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0462/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0462/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 無能勝大明陀羅尼經
+  identifiers:
+    krp: KR6j0462
+    cbeta: T21n1234
+    cbeta_old_id: T21n1234
+    authorityid: CA0003432
+    json_key: T1234
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1234.xml
+    old_id: T21n1234
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0462_000-T.yaml, hash: 'sha256:a22a379f8d3a416be3e1e83bfab8e45503adddecc41ef524dead120bb951454a'}
+  - {seq: 1, filename: KR6j0462_001-T.yaml, hash: 'sha256:6c056dae1af2014198bf4fe0553c23b5f38a713b2168346ef1abc0e726634b17'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0462_000-T.markers.yaml, hash: 'sha256:91ec3542e35835f19d4fcc157ec47b9ae469977f79a6f305e0fd0440979399a4'}
+  - {seq: 1, role: markers, filename: assets/KR6j0462_001-T.markers.yaml, hash: 'sha256:636fd187d87a23c6fe18b5c9875804fb59c7024eb585712e721d67333da848f0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0462_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3943
+  label: 無能勝大明陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:e73a02717a8b2098bce7eeb4df3415197ac9aeebc311efeef5b71c55ace26ae4

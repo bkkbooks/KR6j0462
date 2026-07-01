@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0462/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 無能勝大明陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1234.xml
+    old_id: T21n1234
+hash: sha256:a22a379f8d3a416be3e1e83bfab8e45503adddecc41ef524dead120bb951454a
