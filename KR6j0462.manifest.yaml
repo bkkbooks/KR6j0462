@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0462/v1
 canonical_location: https://kanripo.org/bkk/KR6j0462/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 無能勝大明陀羅尼經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0462_000.yaml, hash: 'sha256:a22a379f8d3a416be3e1e83bfab8e45503adddecc41ef524dead120bb951454a'}
-  - {seq: 1, filename: KR6j0462_001.yaml, hash: 'sha256:6c056dae1af2014198bf4fe0553c23b5f38a713b2168346ef1abc0e726634b17'}
+  - {seq: 1, filename: KR6j0462_001.yaml, hash: 'sha256:0ab711a2bb250076cd1528aed444f6c81ad6fa7d23350d7d781298c73bec08f9'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0462_000.markers.yaml, hash: 'sha256:4474b3c69691c91a17408e24059507f7c87cc060f27a64e2398fd4565767c573'}
-  - {seq: 1, role: markers, filename: assets/KR6j0462_001.markers.yaml, hash: 'sha256:6b2a3ed8a0bad5653e75eac6fa0041352447cde0fe6e7852479abdd705748380'}
+  - {seq: 1, role: markers, filename: assets/KR6j0462_001.markers.yaml, hash: 'sha256:28cc38f1d34cd4d148bd7057d07705fdd76f98f82ecf03021ee0985f77cfe8a3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 無能勝大明陀羅尼經
   type: juan
   level: 1
-hash: sha256:807921c4d2dfbca1d4522fcff3f4d7ddd909110c4d1ef23b59927ed6ad3d304b
+hash: sha256:4ddce8752db02f7a66e6b593606108ef18437e9650172ed269d0468b1edf0283
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
